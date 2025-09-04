@@ -1,12 +1,10 @@
 <h1 align="left">Hey👋! What's Up ?</h1>
 
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h3 align="left">👩‍💻 About Me </h2>
+<p align="left"> - I'm a software engineer <br> I'm currently open to work <br> - Feel free to ask me about python world or javascript framewoks <br> - I can build web & mobile applications. </p>
 
-###
-
-<div align="left">
+<div align="left"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
