@@ -1,8 +1,8 @@
 <h1 align="left">Hey👋! What's Up ?</h1>
 
 
-<h3 align="left">👩‍💻 About Me </h2><br>
-<p align="left">I'm Hicham Bouhamid a software engineer from Morocco <br>  -I'm currently open to work <br> -Feel free to ask me about python world or javascript framewoks <br>  -I can build web & mobile application </p>
+<h3 align="left">👩‍💻 About Me </h2>
+<p align="left">I'm Hicham Bouhamid a software engineer from Morocco <br><br>  -I'm currently open to work <br> -Feel free to ask me about python world or javascript framewoks <br>  -I can build web & mobile application </p>
 
 <div align="left"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
