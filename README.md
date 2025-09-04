@@ -13,7 +13,7 @@
 <h3 align="left">👩‍💻 About Me </h2>
 <p style="margin-left: 2em;"> I'm Hicham Bouhamid a software engineer from Morocco <br><br>  - 🕊️ I'm currently open to work <br> - 🌟​ Feel free to ask me about python world or javascript framewoks <br>  - 🛠️ ​I can build web & mobile application </p>
 <h3 align="left">🛠 Language and tools</h3>
-<div style="margin-left: 2em;"
+<div style="margin-left: 10em;"
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
