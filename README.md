@@ -1,4 +1,4 @@
-<h1 align="left">Hey👋! What's Up ?</h1>
+<h1 align="center">Hey👋! What's Up ?</h1>
 
 
 <h3 align="left">👩‍💻 About Me </h2>
