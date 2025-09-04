@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="youtube logo"  />
   </a>
 </div>
-<h2 align="center">Hey👋 What's Up?</h1>
+<h1 align="center">Hey👋 What's Up?</h1>
 <h3 align="left">👩‍💻 About Me </h2>
 <p align="left"> I'm Hicham Bouhamid a software engineer from Morocco <br><br>  - 🕊️ I'm currently open to work <br> - 🌟​ Feel free to ask me about python world or javascript framewoks <br>  - 🛠️ ​I can build web & mobile application </p>
 <h3 align="left">🛠 Language and tools</h3>
