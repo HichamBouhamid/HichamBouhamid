@@ -1,3 +1,12 @@
+<div align="left">
+  <a href="hicham-bouhamid@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hicham-bouhamid" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div><br>
+
 <h1 align="center">Hey👋! What's Up ?</h1>
 
 
@@ -56,7 +65,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="30" alt="centos logo"  />
 </div><br>
 
-###
+
 
 <div align="left">
   <a href="hicham-bouhamid@outlook.com" target="_blank">
@@ -67,4 +76,3 @@
   </a>
 </div>
 
-###
